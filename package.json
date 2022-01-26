@@ -1,0 +1,16 @@
+{
+  "name": "ml-iris-dataset-problem",
+  "version": "1.0.0",
+  "description": "Exploring the Iris dataset problem in Nodejs",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "asciichart": "^1.5.25"
+  }
+}
